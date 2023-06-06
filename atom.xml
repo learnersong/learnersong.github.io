@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>bird の天空</title>
+  
+  
+  <link href="https://leanersong.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://leanersong.github.io/"/>
+  <updated>2023-06-04T15:44:37.020Z</updated>
+  <id>https://leanersong.github.io/</id>
+  
+  <author>
+    <name>Songirl</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好世界</title>
+    <link href="https://leanersong.github.io/Hello-World_20230604/"/>
+    <id>https://leanersong.github.io/Hello-World_20230604/</id>
+    <published>2023-06-04T14:56:42.000Z</published>
+    <updated>2023-06-04T15:44:37.020Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="测试" scheme="https://leanersong.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="测试" scheme="https://leanersong.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+</feed>
